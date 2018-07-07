@@ -1,0 +1,8 @@
+c:\users\noah agne\source\repos\BookTracker\BookTracker\bin\Debug\BookTracker.exe.config
+c:\users\noah agne\source\repos\BookTracker\BookTracker\bin\Debug\BookTracker.exe
+c:\users\noah agne\source\repos\BookTracker\BookTracker\bin\Debug\BookTracker.pdb
+c:\users\noah agne\source\repos\BookTracker\BookTracker\obj\Debug\BookTracker.csprojAssemblyReference.cache
+c:\users\noah agne\source\repos\BookTracker\BookTracker\obj\Debug\BookTracker.csproj.CoreCompileInputs.cache
+c:\users\noah agne\source\repos\BookTracker\BookTracker\obj\Debug\BookTracker.exe
+c:\users\noah agne\source\repos\BookTracker\BookTracker\obj\Debug\BookTracker.pdb
+c:\users\noah agne\source\repos\BookTracker\BookTracker\bin\Debug\BookList.txt
